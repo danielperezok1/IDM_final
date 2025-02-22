@@ -2,7 +2,8 @@
 **Autor:** Daniel Perez (Maestría Ciencia de Datos, Universidad Austral)
 
 Este repositorio contiene el código de una aplicación Shiny desarrollada en R, cuyo objetivo es analizar y modelar datos de deudas del sistema financiero (BCRA). La aplicación permite realizar un análisis exploratorio, visualizar correlaciones, aplicar análisis de componentes principales (PCA), segmentar la información mediante clustering y construir modelos predictivos basados en árboles de decisión (CART).
-Características
+
+*Características*
 
 ## Exploración de Datos:
 Permite visualizar la distribución de variables numéricas (histogramas y boxplots) y categóricas (barras), además de identificar posibles outliers. Para la tabla de outliers simplemente se utilizo un metodo estadistico muy común, pero no significa que no se puedan utilizar esos datos, ya que en determinados contextos, pueden ser útiles.
@@ -36,6 +37,7 @@ La aplicación utiliza dos archivos CSV: df_bcra_individuals.csv:
 ## Cómo Ejecutar la Aplicación
 Clonar el repositorio:
 git clone https://github.com/tu_usuario/nombre_del_repositorio.git
+*Se publico la app en en el link: https*://agd-experta.shinyapps.io/IDM_Final/, estara dispobible hasta la calificación final de la materia. 
 
 ## Notas Adicionales
 Algunos procesos, como la validación de clusters o la optimización del modelo predictivo, pueden tardar en renderizar dependiendo del tamaño del dataset y la capacidad de procesamiento.
