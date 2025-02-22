@@ -1,0 +1,31 @@
+ID,Variable,detalle
+1,id_individuo,identificacion del individuo (anonimizada).
+2,tipo_persona,primeros dos digitos del cuit (20: hombres; 27: mujeres).
+3,n_deudas_actual,cantidad de entidades en las que el cuit tenia al menos una deuda en Jun-2019.
+4,proxy_edad_actual,tres primeros numeros del dni.
+5,deuda_total_actual,monto total de deuda en Jun-2019 (expresada en miles de pesos).
+6,deuda_con_garantia_actual,monto total de deuda garantizada en Jun-2019 (expresada en miles de pesos).
+7,situacion_mes_actual,situacion crediticia mas grave en todas las deudas del cuit en Jun-2019.
+8,prop_con_garantia_actual,proporcion de la deuda garantizada en Jun-2019.
+9,tiene_garantia_actual,"variable indicadora (0: no, 1: si­) de si el cuit tenia al menos una deuda garantizada en Jun-2019."
+10,mora_30_dias_mes_actual,"variable indicadora (0: no, 1: si­) de si el cuit estaba en situacion 2 en Jun-2019."
+11,n_meses_seg_bcra,"cantidad de meses en los que el cuit tenia al menos una deuda informada en el sistema financiero, entre Dic-2018 y Jun-2019."
+12,media_deuda_total,promedio de la deuda total entre Dic-2018 y Jun-2019.
+13,media_deuda_situacion_1,promedio de la deuda en situacion 1 entre Dic-2018 y Jun-2019.
+14,media_deuda_situacion_2,promedio de la deuda en situacion 2 entre Dic-2018 y Jun-2019.
+15,media_deuda_con_garantia,promedio de la deuda garantizada entre Dic-2018 y Jun-2019.
+16,media_deuda_sin_garantia,promedio de la deuda no garantizada entre Dic-2018 y Jun-2019.
+17,media_deuda_en_default,promedio de la deuda en default (situacion 3 o peor) entre Dic-2018 y Jun-2019.
+18,max_situacion_mes,maxima situacion entre Dic-2018 y Jun-2019.
+19,max_sit_mes_con_garantia,maxima situacion en las deudas garantizadas entre Dic-2018 y Jun-2019.
+20,max_sit_mes_sin_garantia,maxima situacion en las deudas no garantizadas entre Dic-2018 y Jun-2019.
+21,media_prop_situacion_1,promedio de la proporcion de deuda en situacion 1 entre Dic-2018 y Jun-2019.
+22,media_prop_situacion_2,promedio de la proporcion de deuda en situacion 2 entre Dic-2018 y Jun-2019.
+23,media_prop_default,promedio de la proporcion de deuda en default entre Dic-2018 y Jun-2019.
+24,media_prop_con_garantia,promedio de la proporcion de deuda garantizada entre Dic-2018 y Jun-2019.
+25,prop_tuvo_garantia,"proporcion de meses en los cuales el cuit tuvo deuda garantizada, entre Dic-2018 y Jun-2019."
+26,prop_mora_30_dias_seg,"proporcion de meses en los cuales el cuit estuvo en situacion 2, entre Dic-2018 y Jun-2019."
+27,prop_default_seg,"proporcion de meses en los cuales el cuit estuvo en default, entre Dic-2018 y Jun-2019."
+28,peor_situacion_respuesta,situacion crediticia mas grave en todas las deudas del cuit entre Jul-2019 y Jun-2020.
+29,default,situacion crediticia mas grave mayor o igual a 3 en todas las deudas del cuit entre Jul-2019 y Jun-2020.
+30,mora_mayor_30_dias,situacion crediticia mas grave igual a 2 en todas las deudas del cuit entre Jul-2019 y Jun-2020.
