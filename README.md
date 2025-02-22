@@ -37,7 +37,7 @@ La aplicación utiliza dos archivos CSV: df_bcra_individuals.csv:
 ## Cómo Ejecutar la Aplicación
 Clonar el repositorio:
 git clone https://github.com/tu_usuario/nombre_del_repositorio.git
-*Se publico la app en en el link: https*://agd-experta.shinyapps.io/IDM_Final/, estara dispobible hasta la calificación final de la materia. 
+*Se publico la app en en el link*: https://agd-experta.shinyapps.io/IDM_Final/ , estara dispobible hasta la calificación final de la materia. 
 
 ## Notas Adicionales
 Algunos procesos, como la validación de clusters o la optimización del modelo predictivo, pueden tardar en renderizar dependiendo del tamaño del dataset y la capacidad de procesamiento.
