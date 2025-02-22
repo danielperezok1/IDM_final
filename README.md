@@ -3,6 +3,13 @@
 
 Este repositorio contiene el código de una aplicación Shiny desarrollada en R, cuyo objetivo es analizar y modelar datos de deudas del sistema financiero (BCRA). La aplicación permite realizar un análisis exploratorio, visualizar correlaciones, aplicar análisis de componentes principales (PCA), segmentar la información mediante clustering y construir modelos predictivos basados en árboles de decisión (CART).
 
+![iPad-Air-4-agd-experta shinyapps io](https://github.com/user-attachments/assets/3aa25a16-8fd9-4fbd-b68e-c5bc6bb3233d)
+
+
+
+
+
+
 *Características*
 
 ## Exploración de Datos:
